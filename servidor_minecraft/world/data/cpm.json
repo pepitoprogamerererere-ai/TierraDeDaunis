@@ -3,18 +3,8 @@
   "__COMMENT2": "please place this configuration file into your config directory",
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "player_scaling": {
-    "549dd063-7a5f-3694-8229-c1cd8a505909": {
-      "motion": 1.0,
-      "stepHeight": 1.0,
-      "reach": 1.0,
-      "asp": 1.0,
-      "akb": 1.0,
-      "attack": 1.0,
-      "defense": 1.0,
-      "health": 1.0,
-      "mob_vis": 1.0,
-      "kbr": 1.0
-    }
+    "549dd063-7a5f-3694-8229-c1cd8a505909": {},
+    "4a18484b-b753-3f34-99dd-381416c30fe4": {}
   },
   "skins": {},
   "player_scaling_settings": {},
