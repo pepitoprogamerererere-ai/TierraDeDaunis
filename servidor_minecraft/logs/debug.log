@@ -5896,3 +5896,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [16Aug2025 11:07:46.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Successfully filled 686 block(s)]
 [16Aug2025 11:11:32.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Aug2025 11:11:32.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 11:13:45.311] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[16Aug2025 11:16:32.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 11:16:32.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 11:19:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Successfully filled 59 block(s)]
+[16Aug2025 11:21:32.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 11:21:32.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
